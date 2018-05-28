@@ -31,10 +31,6 @@ p {
   color: #ef8b21;
 }
 
-.sidenav-trigger {
-  color: #26a69a;
-}
-
 .parallax-container {
   min-height: 380px;
   line-height: 0;
@@ -46,7 +42,7 @@ p {
   height: 100%;
   width: 100%;
 }
-  
+
   .header {
    margin-top: 15%;
   }
@@ -77,6 +73,7 @@ p {
 
 .col-servizio {
   margin-top: 60px;
+  margin-bottom: 100px;
 }
 
 .icon-block {
