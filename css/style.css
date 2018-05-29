@@ -126,3 +126,13 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.social-icon {
+  font-size: 1.5em;
+  color: #fff;
+  padding: 0 20px;
+}
+
+.social-icon:hover {
+  color: #ef8b21;
+}
