@@ -1,0 +1,6 @@
+[0526/134949.706:ERROR:process_info.cc(329)] VirtualQueryEx: Accesso negato. (0x5)
+[0526/134949.710:ERROR:process_info.cc(550)] ReadMemoryInfo failed
+[0526/134949.718:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accesso negato} Un processo ha richiesto di accedere ad un oggetto ma non ha ottenuto i diritti di accesso. (0xc0000022)
+[0526/134949.722:ERROR:exception_snapshot_win.cc(88)] thread ID 7904 not found in process
+[0526/134949.722:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0526/134949.722:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentativo di accesso a un processo in fase di chiusura. (0xc000010a)
